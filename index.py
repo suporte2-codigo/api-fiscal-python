@@ -85,4 +85,4 @@ def GerarPDFT(q):
     return q.put(json.dumps({"base64": ret}))
 
 if __name__ == '__main__':
-    app.run(port=os.getenv("PORT") or '80')
+    app.run(port=5000)
