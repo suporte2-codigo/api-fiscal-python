@@ -10,6 +10,8 @@ import os
 
 app = Flask(__name__)
 
+print('Inicio da aplicação')
+
 schemaStatus = {
     'type': 'object',
     'properties': {
@@ -27,41 +29,32 @@ def hello_world():
 @app.route('/status', methods=['GET'])
 # @expects_json(schemaStatus)
 def StatusServico():
-    try:
-        # body = json.loads(request.data)
-        queue = Queue()
-        process = Process(target=StatusServicoT, args=(queue,))
-        process.start()
-        ret = queue.get()
+    # body = json.loads(request.data)
+    queue = Queue()
+    process = Process(target=StatusServicoT, args=(queue,))
+    process.start()
+    ret = queue.get()
+    process.join()
+    if process.exitcode:
         process.join()
-        if process.exitcode:
-            process.join()
-            
-        response = Response()
-        response.data = json.loads(ret)
-        response.content_type = "application/json"
-        return response
-    except Exception as e:
-        print(e)
-        abort(503)
+        
+    response = Response()
+    response.data = json.loads(ret)
+    response.content_type = "application/json"
+    return response
     
 @app.route('/pdf', methods=['GET'])
 def GerarPDF():
-    try:
-        queue = Queue()
-        process = Process(target=GerarPDFT, args=(queue,))
-        process.start()
-        ret = queue.get()
+    queue = Queue()
+    process = Process(target=GerarPDFT, args=(queue,))
+    process.start()
+    ret = queue.get()
+    process.join()
+
+    if process.exitcode:
         process.join()
 
-        if process.exitcode:
-            process.join()
-
-        return json.loads(ret)
-    except Exception as e:
-        print(e)
-        abort(503)
-
+    return json.loads(ret)
 
 def StatusServicoT(q):
     print('StatusServico Inicio: ' , datetime.now())

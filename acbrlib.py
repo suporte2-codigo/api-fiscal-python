@@ -66,7 +66,8 @@ class AcbrLibNfe(AcbrLib):
                 'SalvarGer': '0',
                 'SalvarArq': '0',
                 'SalvarEvento': '0',
-                'SSLType': '5'
+                'SSLType': '5',
+                'Ambiente': '1'
             },
             'DFe': {
                 'SSLCryptLib': '1',
