@@ -1,0 +1,1608 @@
+27/12/23 22:37:41:517 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:517 - Travar
+27/12/23 22:37:41:520 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:41:524 - Destravar
+27/12/23 22:37:41:527 - TLibNFeConfig.Ler - Feito
+27/12/23 22:37:41:530 - Destravar
+27/12/23 22:37:41:534 - TACBrLibNFe.Inicializar - Feito
+27/12/23 22:37:41:538 - LIB_Inicializar( [memory],  )
+27/12/23 22:37:41:540 -    ACBrLibNFE - 0.4.6.264
+27/12/23 22:37:41:544 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:37:41:548 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:552 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+27/12/23 22:37:41:556 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:37:41:560 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:564 - TLibNFeConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+27/12/23 22:37:41:567 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:41:570 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:573 - Travar
+27/12/23 22:37:41:578 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:41:581 - Destravar
+27/12/23 22:37:41:585 -    SetRetorno(0, )
+27/12/23 22:37:41:589 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:37:41:593 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:597 - LIB_ConfigGravarValor(Principal, CodificacaoResposta, 0)
+27/12/23 22:37:41:601 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:37:41:605 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:609 - TLibNFeConfig.AjustarValor(tfGravar,Principal,CodificacaoResposta,0)
+27/12/23 22:37:41:613 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:41:617 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:621 - Travar
+27/12/23 22:37:41:626 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:41:630 - Destravar
+27/12/23 22:37:41:633 -    SetRetorno(0, )
+27/12/23 22:37:41:637 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:37:41:641 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:645 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+27/12/23 22:37:41:649 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:37:41:653 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:657 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+27/12/23 22:37:41:661 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:41:665 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:669 - Travar
+27/12/23 22:37:41:674 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:41:677 - Destravar
+27/12/23 22:37:41:681 -    SetRetorno(0, )
+27/12/23 22:37:41:685 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:37:41:688 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:693 - LIB_ConfigGravarValor(Principal, LogPath, F:\Projetos\api-fiscal-python)
+27/12/23 22:37:41:697 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:37:41:700 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:704 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogPath,F:\Projetos\api-fiscal-python)
+27/12/23 22:37:41:708 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:41:713 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:717 - Travar
+27/12/23 22:37:41:720 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:41:725 - Destravar
+27/12/23 22:37:41:728 -    SetRetorno(0, )
+27/12/23 22:37:41:732 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:37:41:736 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:740 - LIB_ConfigGravarValor(NFe, PathSchemas, F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:37:41:744 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:37:41:748 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:752 - TLibNFeConfig.AjustarValor(tfGravar,NFe,PathSchemas,F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:37:41:756 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:41:760 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:763 - Travar
+27/12/23 22:37:41:767 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:41:771 - Destravar
+27/12/23 22:37:41:774 -    SetRetorno(0, )
+27/12/23 22:37:41:778 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:37:41:783 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:786 - LIB_ConfigGravarValor(NFe, SalvarGer, 0)
+27/12/23 22:37:41:790 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:37:41:793 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:798 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarGer,0)
+27/12/23 22:37:41:801 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:41:805 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:809 - Travar
+27/12/23 22:37:41:813 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:41:817 - Destravar
+27/12/23 22:37:41:820 -    SetRetorno(0, )
+27/12/23 22:37:41:824 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:37:41:828 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:832 - LIB_ConfigGravarValor(NFe, SalvarArq, 0)
+27/12/23 22:37:41:835 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:37:41:839 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:844 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarArq,0)
+27/12/23 22:37:41:848 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:41:851 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:855 - Travar
+27/12/23 22:37:41:859 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:41:862 - Destravar
+27/12/23 22:37:41:866 -    SetRetorno(0, )
+27/12/23 22:37:41:870 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:37:41:874 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:878 - LIB_ConfigGravarValor(NFe, SalvarEvento, 0)
+27/12/23 22:37:41:882 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:37:41:885 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:889 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarEvento,0)
+27/12/23 22:37:41:893 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:41:897 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:900 - Travar
+27/12/23 22:37:41:904 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:41:908 - Destravar
+27/12/23 22:37:41:912 -    SetRetorno(0, )
+27/12/23 22:37:41:916 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:37:41:919 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:924 - LIB_ConfigGravarValor(NFe, SSLType, 5)
+27/12/23 22:37:41:928 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:37:41:931 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:935 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SSLType,5)
+27/12/23 22:37:41:939 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:41:943 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:947 - Travar
+27/12/23 22:37:41:951 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:41:956 - Destravar
+27/12/23 22:37:41:959 -    SetRetorno(0, )
+27/12/23 22:37:41:963 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:37:41:967 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:971 - LIB_ConfigGravarValor(DFe, SSLCryptLib, 3)
+27/12/23 22:37:41:976 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:37:41:980 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:41:983 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLCryptLib,3)
+27/12/23 22:37:41:987 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:41:992 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:41:996 - Travar
+27/12/23 22:37:42:000 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:005 - Destravar
+27/12/23 22:37:42:008 -    SetRetorno(0, )
+27/12/23 22:37:42:012 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:37:42:017 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:021 - LIB_ConfigGravarValor(DFe, SSLHttpLib, 3)
+27/12/23 22:37:42:026 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:37:42:030 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:034 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLHttpLib,3)
+27/12/23 22:37:42:038 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:042 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:046 - Travar
+27/12/23 22:37:42:050 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:054 - Destravar
+27/12/23 22:37:42:059 -    SetRetorno(0, )
+27/12/23 22:37:42:064 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:37:42:068 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:072 - LIB_ConfigGravarValor(DFe, SSLXmlSignLib, 4)
+27/12/23 22:37:42:076 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:37:42:080 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:084 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLXmlSignLib,4)
+27/12/23 22:37:42:088 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:092 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:096 - Travar
+27/12/23 22:37:42:101 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:105 - Destravar
+27/12/23 22:37:42:110 -    SetRetorno(0, )
+27/12/23 22:37:42:114 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:37:42:119 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:123 - LIB_ConfigGravarValor(DFe, UF, RS)
+27/12/23 22:37:42:127 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:37:42:131 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:135 - TLibNFeConfig.AjustarValor(tfGravar,DFe,UF,RS)
+27/12/23 22:37:42:139 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:143 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:147 - Travar
+27/12/23 22:37:42:152 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:156 - Destravar
+27/12/23 22:37:42:160 -    SetRetorno(0, )
+27/12/23 22:37:42:164 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:37:42:168 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:172 - LIB_ConfigGravarValor(DFe, TimeZone.Modo, 0)
+27/12/23 22:37:42:176 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:37:42:181 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:185 - TLibNFeConfig.AjustarValor(tfGravar,DFe,TimeZone.Modo,0)
+27/12/23 22:37:42:190 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:194 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:198 - Travar
+27/12/23 22:37:42:201 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:207 - Destravar
+27/12/23 22:37:42:210 -    SetRetorno(0, )
+27/12/23 22:37:42:215 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:37:42:219 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:223 - LIB_ConfigGravarValor(DFe, ArquivoPFX, F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:37:42:227 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:37:42:231 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:235 - TLibNFeConfig.AjustarValor(tfGravar,DFe,ArquivoPFX,F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:37:42:239 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:244 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:248 - Travar
+27/12/23 22:37:42:253 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:258 - Destravar
+27/12/23 22:37:42:261 -    SetRetorno(0, )
+27/12/23 22:37:42:265 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:37:42:270 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:37:42:275 - LIB_ConfigGravarValor(DFe, Senha, ********)
+27/12/23 22:37:42:279 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:37:42:283 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:37:42:288 - TLibNFeConfig.AjustarValor(tfGravar,DFe,Senha,********)
+27/12/23 22:37:42:291 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:295 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:299 - Travar
+27/12/23 22:37:42:303 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:309 - Destravar
+27/12/23 22:37:42:313 -    SetRetorno(0, )
+27/12/23 22:37:42:317 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:37:42:321 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:326 - LIB_ConfigGravarValor(DFe, VerificarValidade, 1)
+27/12/23 22:37:42:330 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:37:42:334 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:338 - TLibNFeConfig.AjustarValor(tfGravar,DFe,VerificarValidade,1)
+27/12/23 22:37:42:341 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:345 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:349 - Travar
+27/12/23 22:37:42:354 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:358 - Destravar
+27/12/23 22:37:42:362 -    SetRetorno(0, )
+27/12/23 22:37:42:367 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:37:42:371 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:374 - LIB_ConfigGravarValor(DANFE, PathPDF, F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:37:42:379 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:37:42:383 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:387 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,PathPDF,F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:37:42:392 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:395 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:399 - Travar
+27/12/23 22:37:42:404 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:408 - Destravar
+27/12/23 22:37:42:412 -    SetRetorno(0, )
+27/12/23 22:37:42:415 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:37:42:420 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:424 - LIB_ConfigGravarValor(DANFE, MostraSetup, 0)
+27/12/23 22:37:42:428 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:37:42:432 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:436 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraSetup,0)
+27/12/23 22:37:42:439 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:444 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:448 - Travar
+27/12/23 22:37:42:453 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:457 - Destravar
+27/12/23 22:37:42:460 -    SetRetorno(0, )
+27/12/23 22:37:42:464 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:37:42:468 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:473 - LIB_ConfigGravarValor(DANFE, MostraPreview, 0)
+27/12/23 22:37:42:476 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:37:42:480 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:485 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraPreview,0)
+27/12/23 22:37:42:488 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:493 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:497 - Travar
+27/12/23 22:37:42:500 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:504 - Destravar
+27/12/23 22:37:42:508 -    SetRetorno(0, )
+27/12/23 22:37:42:513 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:37:42:517 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:520 - LIB_ConfigGravarValor(DANFE, MostraStatus, 0)
+27/12/23 22:37:42:525 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:37:42:529 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:37:42:532 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraStatus,0)
+27/12/23 22:37:42:537 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:37:42:542 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:37:42:546 - Travar
+27/12/23 22:37:42:550 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:37:42:554 - Destravar
+27/12/23 22:37:42:559 -    SetRetorno(0, )
+27/12/23 22:37:42:563 - NFE_StatusServico
+27/12/23 22:37:42:567 - Travar
+27/12/23 22:37:42:838 -    MoverStringParaPChar. StrLen:259, BufLen:2000000
+27/12/23 22:37:42:841 -    SetRetorno(0, { "Status" : { "CStat" : 107, "CUF" : 43, "DhRecbto" : "2023-12-27T22:40:32.000Z", "DhRetorno" : "", "Msg" : "Servico em Operacao", "TMed" : 1, "VerAplic" : "RS202312261158", "Versao" : "4.00", "XMotivo" : "Servico em Operacao", "XObs" : "", "tpAmb" : "2" } })
+27/12/23 22:37:42:847 - Destravar
+27/12/23 22:37:42:869 - LIB_Finalizar
+27/12/23 22:37:42:874 - Finalizar
+27/12/23 22:39:12:187 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:191 - Travar
+27/12/23 22:39:12:197 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:202 - Destravar
+27/12/23 22:39:12:206 - TLibNFeConfig.Ler - Feito
+27/12/23 22:39:12:211 - Destravar
+27/12/23 22:39:12:215 - TACBrLibNFe.Inicializar - Feito
+27/12/23 22:39:12:219 - LIB_Inicializar( [memory],  )
+27/12/23 22:39:12:224 -    ACBrLibNFE - 0.4.6.264
+27/12/23 22:39:12:228 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:39:12:233 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:238 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+27/12/23 22:39:12:242 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:39:12:246 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:251 - TLibNFeConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+27/12/23 22:39:12:256 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:260 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:265 - Travar
+27/12/23 22:39:12:270 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:274 - Destravar
+27/12/23 22:39:12:279 -    SetRetorno(0, )
+27/12/23 22:39:12:283 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:39:12:288 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:292 - LIB_ConfigGravarValor(Principal, CodificacaoResposta, 0)
+27/12/23 22:39:12:296 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:39:12:301 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:306 - TLibNFeConfig.AjustarValor(tfGravar,Principal,CodificacaoResposta,0)
+27/12/23 22:39:12:310 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:313 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:318 - Travar
+27/12/23 22:39:12:323 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:327 - Destravar
+27/12/23 22:39:12:331 -    SetRetorno(0, )
+27/12/23 22:39:12:336 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:39:12:340 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:345 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+27/12/23 22:39:12:349 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:39:12:353 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:357 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+27/12/23 22:39:12:362 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:366 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:370 - Travar
+27/12/23 22:39:12:375 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:379 - Destravar
+27/12/23 22:39:12:384 -    SetRetorno(0, )
+27/12/23 22:39:12:388 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:39:12:392 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:397 - LIB_ConfigGravarValor(Principal, LogPath, F:\Projetos\api-fiscal-python)
+27/12/23 22:39:12:402 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:39:12:406 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:410 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogPath,F:\Projetos\api-fiscal-python)
+27/12/23 22:39:12:414 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:418 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:422 - Travar
+27/12/23 22:39:12:427 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:431 - Destravar
+27/12/23 22:39:12:436 -    SetRetorno(0, )
+27/12/23 22:39:12:440 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:39:12:443 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:448 - LIB_ConfigGravarValor(NFe, PathSchemas, F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:39:12:452 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:39:12:456 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:460 - TLibNFeConfig.AjustarValor(tfGravar,NFe,PathSchemas,F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:39:12:464 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:469 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:473 - Travar
+27/12/23 22:39:12:477 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:481 - Destravar
+27/12/23 22:39:12:485 -    SetRetorno(0, )
+27/12/23 22:39:12:489 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:39:12:494 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:498 - LIB_ConfigGravarValor(NFe, SalvarGer, 0)
+27/12/23 22:39:12:502 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:39:12:506 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:510 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarGer,0)
+27/12/23 22:39:12:514 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:519 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:523 - Travar
+27/12/23 22:39:12:527 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:532 - Destravar
+27/12/23 22:39:12:536 -    SetRetorno(0, )
+27/12/23 22:39:12:541 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:39:12:546 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:550 - LIB_ConfigGravarValor(NFe, SalvarArq, 0)
+27/12/23 22:39:12:555 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:39:12:559 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:563 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarArq,0)
+27/12/23 22:39:12:567 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:571 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:575 - Travar
+27/12/23 22:39:12:580 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:584 - Destravar
+27/12/23 22:39:12:588 -    SetRetorno(0, )
+27/12/23 22:39:12:593 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:39:12:596 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:601 - LIB_ConfigGravarValor(NFe, SalvarEvento, 0)
+27/12/23 22:39:12:605 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:39:12:609 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:612 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarEvento,0)
+27/12/23 22:39:12:617 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:621 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:626 - Travar
+27/12/23 22:39:12:630 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:634 - Destravar
+27/12/23 22:39:12:638 -    SetRetorno(0, )
+27/12/23 22:39:12:642 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:39:12:647 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:650 - LIB_ConfigGravarValor(NFe, SSLType, 5)
+27/12/23 22:39:12:654 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:39:12:658 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:662 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SSLType,5)
+27/12/23 22:39:12:667 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:671 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:674 - Travar
+27/12/23 22:39:12:679 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:683 - Destravar
+27/12/23 22:39:12:687 -    SetRetorno(0, )
+27/12/23 22:39:12:691 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:39:12:696 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:699 - LIB_ConfigGravarValor(DFe, SSLCryptLib, 3)
+27/12/23 22:39:12:703 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:39:12:708 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:711 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLCryptLib,3)
+27/12/23 22:39:12:715 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:719 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:723 - Travar
+27/12/23 22:39:12:727 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:731 - Destravar
+27/12/23 22:39:12:735 -    SetRetorno(0, )
+27/12/23 22:39:12:739 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:39:12:744 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:748 - LIB_ConfigGravarValor(DFe, SSLHttpLib, 3)
+27/12/23 22:39:12:752 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:39:12:756 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:759 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLHttpLib,3)
+27/12/23 22:39:12:764 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:768 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:773 - Travar
+27/12/23 22:39:12:777 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:780 - Destravar
+27/12/23 22:39:12:785 -    SetRetorno(0, )
+27/12/23 22:39:12:789 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:39:12:792 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:797 - LIB_ConfigGravarValor(DFe, SSLXmlSignLib, 4)
+27/12/23 22:39:12:801 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:39:12:805 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:809 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLXmlSignLib,4)
+27/12/23 22:39:12:813 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:817 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:820 - Travar
+27/12/23 22:39:12:825 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:829 - Destravar
+27/12/23 22:39:12:833 -    SetRetorno(0, )
+27/12/23 22:39:12:837 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:39:12:841 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:844 - LIB_ConfigGravarValor(DFe, UF, RS)
+27/12/23 22:39:12:848 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:39:12:853 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:857 - TLibNFeConfig.AjustarValor(tfGravar,DFe,UF,RS)
+27/12/23 22:39:12:861 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:865 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:869 - Travar
+27/12/23 22:39:12:873 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:878 - Destravar
+27/12/23 22:39:12:882 -    SetRetorno(0, )
+27/12/23 22:39:12:886 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:39:12:890 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:894 - LIB_ConfigGravarValor(DFe, TimeZone.Modo, 0)
+27/12/23 22:39:12:898 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:39:12:903 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:907 - TLibNFeConfig.AjustarValor(tfGravar,DFe,TimeZone.Modo,0)
+27/12/23 22:39:12:911 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:915 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:920 - Travar
+27/12/23 22:39:12:924 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:929 - Destravar
+27/12/23 22:39:12:932 -    SetRetorno(0, )
+27/12/23 22:39:12:936 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:39:12:941 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:945 - LIB_ConfigGravarValor(DFe, ArquivoPFX, F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:39:12:949 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:39:12:953 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:12:958 - TLibNFeConfig.AjustarValor(tfGravar,DFe,ArquivoPFX,F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:39:12:962 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:12:966 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:12:970 - Travar
+27/12/23 22:39:12:975 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:12:980 - Destravar
+27/12/23 22:39:12:984 -    SetRetorno(0, )
+27/12/23 22:39:12:988 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:39:12:991 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:39:12:995 - LIB_ConfigGravarValor(DFe, Senha, ********)
+27/12/23 22:39:13:000 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:39:13:004 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:39:13:008 - TLibNFeConfig.AjustarValor(tfGravar,DFe,Senha,********)
+27/12/23 22:39:13:012 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:13:016 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:13:019 - Travar
+27/12/23 22:39:13:024 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:13:029 - Destravar
+27/12/23 22:39:13:032 -    SetRetorno(0, )
+27/12/23 22:39:13:036 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:39:13:041 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:13:046 - LIB_ConfigGravarValor(DFe, VerificarValidade, 1)
+27/12/23 22:39:13:051 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:39:13:056 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:13:060 - TLibNFeConfig.AjustarValor(tfGravar,DFe,VerificarValidade,1)
+27/12/23 22:39:13:064 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:13:068 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:13:073 - Travar
+27/12/23 22:39:13:077 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:13:082 - Destravar
+27/12/23 22:39:13:086 -    SetRetorno(0, )
+27/12/23 22:39:13:090 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:39:13:094 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:13:097 - LIB_ConfigGravarValor(DANFE, PathPDF, F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:39:13:102 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:39:13:106 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:13:110 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,PathPDF,F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:39:13:114 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:13:119 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:13:125 - Travar
+27/12/23 22:39:13:132 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:13:136 - Destravar
+27/12/23 22:39:13:140 -    SetRetorno(0, )
+27/12/23 22:39:13:145 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:39:13:151 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:13:157 - LIB_ConfigGravarValor(DANFE, MostraSetup, 0)
+27/12/23 22:39:13:163 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:39:13:168 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:13:172 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraSetup,0)
+27/12/23 22:39:13:177 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:13:183 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:13:187 - Travar
+27/12/23 22:39:13:193 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:13:198 - Destravar
+27/12/23 22:39:13:202 -    SetRetorno(0, )
+27/12/23 22:39:13:206 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:39:13:212 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:13:216 - LIB_ConfigGravarValor(DANFE, MostraPreview, 0)
+27/12/23 22:39:13:220 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:39:13:225 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:13:229 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraPreview,0)
+27/12/23 22:39:13:234 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:13:238 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:13:244 - Travar
+27/12/23 22:39:13:249 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:13:252 - Destravar
+27/12/23 22:39:13:256 -    SetRetorno(0, )
+27/12/23 22:39:13:260 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:39:13:265 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:13:269 - LIB_ConfigGravarValor(DANFE, MostraStatus, 0)
+27/12/23 22:39:13:273 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:39:13:278 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:39:13:281 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraStatus,0)
+27/12/23 22:39:13:285 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:39:13:289 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:39:13:294 - Travar
+27/12/23 22:39:13:297 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:39:13:301 - Destravar
+27/12/23 22:39:13:305 -    SetRetorno(0, )
+27/12/23 22:39:13:309 - NFE_StatusServico
+27/12/23 22:39:13:314 - Travar
+27/12/23 22:39:13:419 -    MoverStringParaPChar. StrLen:259, BufLen:2000000
+27/12/23 22:39:13:423 -    SetRetorno(0, { "Status" : { "CStat" : 107, "CUF" : 43, "DhRecbto" : "2023-12-27T22:42:02.000Z", "DhRetorno" : "", "Msg" : "Servico em Operacao", "TMed" : 1, "VerAplic" : "RS202312261158", "Versao" : "4.00", "XMotivo" : "Servico em Operacao", "XObs" : "", "tpAmb" : "2" } })
+27/12/23 22:39:13:427 - Destravar
+27/12/23 22:39:13:456 - LIB_Finalizar
+27/12/23 22:39:13:460 - Finalizar
+27/12/23 22:40:37:598 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:37:602 - Travar
+27/12/23 22:40:37:607 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:37:611 - Destravar
+27/12/23 22:40:37:615 - TLibNFeConfig.Ler - Feito
+27/12/23 22:40:37:619 - Destravar
+27/12/23 22:40:37:624 - TACBrLibNFe.Inicializar - Feito
+27/12/23 22:40:37:627 - LIB_Inicializar( [memory],  )
+27/12/23 22:40:37:632 -    ACBrLibNFE - 0.4.6.264
+27/12/23 22:40:37:636 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:40:37:640 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:645 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+27/12/23 22:40:37:649 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:40:37:652 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:656 - TLibNFeConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+27/12/23 22:40:37:660 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:37:664 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:37:668 - Travar
+27/12/23 22:40:37:673 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:37:677 - Destravar
+27/12/23 22:40:37:681 -    SetRetorno(0, )
+27/12/23 22:40:37:686 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:40:37:690 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:693 - LIB_ConfigGravarValor(Principal, CodificacaoResposta, 0)
+27/12/23 22:40:37:698 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:40:37:702 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:706 - TLibNFeConfig.AjustarValor(tfGravar,Principal,CodificacaoResposta,0)
+27/12/23 22:40:37:710 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:37:714 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:37:718 - Travar
+27/12/23 22:40:37:722 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:37:727 - Destravar
+27/12/23 22:40:37:730 -    SetRetorno(0, )
+27/12/23 22:40:37:734 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:40:37:738 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:742 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+27/12/23 22:40:37:747 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:40:37:751 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:754 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+27/12/23 22:40:37:758 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:37:763 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:37:767 - Travar
+27/12/23 22:40:37:771 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:37:775 - Destravar
+27/12/23 22:40:37:779 -    SetRetorno(0, )
+27/12/23 22:40:37:783 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:40:37:788 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:791 - LIB_ConfigGravarValor(Principal, LogPath, F:\Projetos\api-fiscal-python)
+27/12/23 22:40:37:795 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:40:37:800 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:804 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogPath,F:\Projetos\api-fiscal-python)
+27/12/23 22:40:37:809 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:37:813 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:37:817 - Travar
+27/12/23 22:40:37:822 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:37:826 - Destravar
+27/12/23 22:40:37:830 -    SetRetorno(0, )
+27/12/23 22:40:37:834 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:40:37:839 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:844 - LIB_ConfigGravarValor(NFe, PathSchemas, F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:40:37:848 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:40:37:852 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:857 - TLibNFeConfig.AjustarValor(tfGravar,NFe,PathSchemas,F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:40:37:861 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:37:865 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:37:869 - Travar
+27/12/23 22:40:37:874 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:37:878 - Destravar
+27/12/23 22:40:37:883 -    SetRetorno(0, )
+27/12/23 22:40:37:887 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:40:37:891 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:895 - LIB_ConfigGravarValor(NFe, SalvarGer, 0)
+27/12/23 22:40:37:899 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:40:37:904 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:909 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarGer,0)
+27/12/23 22:40:37:913 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:37:917 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:37:921 - Travar
+27/12/23 22:40:37:926 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:37:931 - Destravar
+27/12/23 22:40:37:936 -    SetRetorno(0, )
+27/12/23 22:40:37:939 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:40:37:945 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:950 - LIB_ConfigGravarValor(NFe, SalvarArq, 0)
+27/12/23 22:40:37:953 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:40:37:957 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:37:962 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarArq,0)
+27/12/23 22:40:37:966 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:37:971 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:37:976 - Travar
+27/12/23 22:40:37:981 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:37:985 - Destravar
+27/12/23 22:40:37:990 -    SetRetorno(0, )
+27/12/23 22:40:37:994 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:40:37:999 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:003 - LIB_ConfigGravarValor(NFe, SalvarEvento, 0)
+27/12/23 22:40:38:007 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:40:38:012 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:016 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarEvento,0)
+27/12/23 22:40:38:020 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:025 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:029 - Travar
+27/12/23 22:40:38:034 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:038 - Destravar
+27/12/23 22:40:38:044 -    SetRetorno(0, )
+27/12/23 22:40:38:049 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:40:38:052 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:057 - LIB_ConfigGravarValor(NFe, SSLType, 5)
+27/12/23 22:40:38:061 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:40:38:066 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:070 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SSLType,5)
+27/12/23 22:40:38:074 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:078 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:083 - Travar
+27/12/23 22:40:38:088 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:092 - Destravar
+27/12/23 22:40:38:096 -    SetRetorno(0, )
+27/12/23 22:40:38:101 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:40:38:106 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:110 - LIB_ConfigGravarValor(DFe, SSLCryptLib, 3)
+27/12/23 22:40:38:114 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:40:38:118 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:122 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLCryptLib,3)
+27/12/23 22:40:38:127 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:131 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:136 - Travar
+27/12/23 22:40:38:139 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:144 - Destravar
+27/12/23 22:40:38:149 -    SetRetorno(0, )
+27/12/23 22:40:38:153 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:40:38:157 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:162 - LIB_ConfigGravarValor(DFe, SSLHttpLib, 3)
+27/12/23 22:40:38:166 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:40:38:170 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:175 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLHttpLib,3)
+27/12/23 22:40:38:180 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:183 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:188 - Travar
+27/12/23 22:40:38:192 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:197 - Destravar
+27/12/23 22:40:38:201 -    SetRetorno(0, )
+27/12/23 22:40:38:205 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:40:38:209 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:214 - LIB_ConfigGravarValor(DFe, SSLXmlSignLib, 4)
+27/12/23 22:40:38:218 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:40:38:223 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:226 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLXmlSignLib,4)
+27/12/23 22:40:38:231 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:235 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:239 - Travar
+27/12/23 22:40:38:244 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:248 - Destravar
+27/12/23 22:40:38:252 -    SetRetorno(0, )
+27/12/23 22:40:38:256 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:40:38:260 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:265 - LIB_ConfigGravarValor(DFe, UF, RS)
+27/12/23 22:40:38:270 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:40:38:274 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:278 - TLibNFeConfig.AjustarValor(tfGravar,DFe,UF,RS)
+27/12/23 22:40:38:282 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:286 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:291 - Travar
+27/12/23 22:40:38:295 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:299 - Destravar
+27/12/23 22:40:38:303 -    SetRetorno(0, )
+27/12/23 22:40:38:309 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:40:38:313 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:316 - LIB_ConfigGravarValor(DFe, TimeZone.Modo, 0)
+27/12/23 22:40:38:321 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:40:38:325 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:329 - TLibNFeConfig.AjustarValor(tfGravar,DFe,TimeZone.Modo,0)
+27/12/23 22:40:38:334 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:338 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:342 - Travar
+27/12/23 22:40:38:347 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:352 - Destravar
+27/12/23 22:40:38:355 -    SetRetorno(0, )
+27/12/23 22:40:38:360 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:40:38:364 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:368 - LIB_ConfigGravarValor(DFe, ArquivoPFX, F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:40:38:372 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:40:38:377 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:381 - TLibNFeConfig.AjustarValor(tfGravar,DFe,ArquivoPFX,F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:40:38:385 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:390 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:394 - Travar
+27/12/23 22:40:38:398 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:403 - Destravar
+27/12/23 22:40:38:407 -    SetRetorno(0, )
+27/12/23 22:40:38:411 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:40:38:416 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:40:38:420 - LIB_ConfigGravarValor(DFe, Senha, ********)
+27/12/23 22:40:38:424 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:40:38:429 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:40:38:433 - TLibNFeConfig.AjustarValor(tfGravar,DFe,Senha,********)
+27/12/23 22:40:38:437 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:442 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:446 - Travar
+27/12/23 22:40:38:450 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:454 - Destravar
+27/12/23 22:40:38:458 -    SetRetorno(0, )
+27/12/23 22:40:38:462 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:40:38:466 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:470 - LIB_ConfigGravarValor(DFe, VerificarValidade, 1)
+27/12/23 22:40:38:474 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:40:38:478 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:482 - TLibNFeConfig.AjustarValor(tfGravar,DFe,VerificarValidade,1)
+27/12/23 22:40:38:486 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:490 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:494 - Travar
+27/12/23 22:40:38:498 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:503 - Destravar
+27/12/23 22:40:38:507 -    SetRetorno(0, )
+27/12/23 22:40:38:511 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:40:38:515 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:518 - LIB_ConfigGravarValor(DANFE, PathPDF, F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:40:38:523 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:40:38:527 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:531 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,PathPDF,F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:40:38:536 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:541 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:546 - Travar
+27/12/23 22:40:38:550 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:554 - Destravar
+27/12/23 22:40:38:559 -    SetRetorno(0, )
+27/12/23 22:40:38:564 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:40:38:568 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:571 - LIB_ConfigGravarValor(DANFE, MostraSetup, 0)
+27/12/23 22:40:38:576 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:40:38:579 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:584 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraSetup,0)
+27/12/23 22:40:38:588 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:591 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:596 - Travar
+27/12/23 22:40:38:600 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:604 - Destravar
+27/12/23 22:40:38:608 -    SetRetorno(0, )
+27/12/23 22:40:38:613 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:40:38:617 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:621 - LIB_ConfigGravarValor(DANFE, MostraPreview, 0)
+27/12/23 22:40:38:624 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:40:38:629 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:633 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraPreview,0)
+27/12/23 22:40:38:636 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:641 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:645 - Travar
+27/12/23 22:40:38:649 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:654 - Destravar
+27/12/23 22:40:38:658 -    SetRetorno(0, )
+27/12/23 22:40:38:662 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:40:38:666 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:670 - LIB_ConfigGravarValor(DANFE, MostraStatus, 0)
+27/12/23 22:40:38:674 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:40:38:678 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:40:38:683 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraStatus,0)
+27/12/23 22:40:38:687 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:40:38:690 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:40:38:695 - Travar
+27/12/23 22:40:38:700 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:40:38:703 - Destravar
+27/12/23 22:40:38:707 -    SetRetorno(0, )
+27/12/23 22:40:38:711 - NFE_StatusServico
+27/12/23 22:40:38:715 - Travar
+27/12/23 22:40:38:810 -    MoverStringParaPChar. StrLen:259, BufLen:2000000
+27/12/23 22:40:38:816 -    SetRetorno(0, { "Status" : { "CStat" : 107, "CUF" : 43, "DhRecbto" : "2023-12-27T22:43:28.000Z", "DhRetorno" : "", "Msg" : "Servico em Operacao", "TMed" : 1, "VerAplic" : "RS202312261158", "Versao" : "4.00", "XMotivo" : "Servico em Operacao", "XObs" : "", "tpAmb" : "2" } })
+27/12/23 22:40:38:820 - Destravar
+27/12/23 22:40:38:848 - LIB_Finalizar
+27/12/23 22:40:38:852 - Finalizar
+27/12/23 22:41:48:340 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:344 - Travar
+27/12/23 22:41:48:350 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:354 - Destravar
+27/12/23 22:41:48:358 - TLibNFeConfig.Ler - Feito
+27/12/23 22:41:48:363 - Destravar
+27/12/23 22:41:48:367 - TACBrLibNFe.Inicializar - Feito
+27/12/23 22:41:48:371 - LIB_Inicializar( [memory],  )
+27/12/23 22:41:48:375 -    ACBrLibNFE - 0.4.6.264
+27/12/23 22:41:48:379 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:41:48:383 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:387 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+27/12/23 22:41:48:392 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:41:48:395 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:400 - TLibNFeConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+27/12/23 22:41:48:404 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:408 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:412 - Travar
+27/12/23 22:41:48:416 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:420 - Destravar
+27/12/23 22:41:48:425 -    SetRetorno(0, )
+27/12/23 22:41:48:429 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:41:48:433 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:438 - LIB_ConfigGravarValor(Principal, CodificacaoResposta, 0)
+27/12/23 22:41:48:443 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:41:48:447 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:451 - TLibNFeConfig.AjustarValor(tfGravar,Principal,CodificacaoResposta,0)
+27/12/23 22:41:48:455 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:459 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:463 - Travar
+27/12/23 22:41:48:469 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:473 - Destravar
+27/12/23 22:41:48:476 -    SetRetorno(0, )
+27/12/23 22:41:48:481 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:41:48:485 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:489 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+27/12/23 22:41:48:493 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:41:48:497 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:501 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+27/12/23 22:41:48:505 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:509 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:514 - Travar
+27/12/23 22:41:48:518 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:522 - Destravar
+27/12/23 22:41:48:526 -    SetRetorno(0, )
+27/12/23 22:41:48:530 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:41:48:534 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:538 - LIB_ConfigGravarValor(Principal, LogPath, F:\Projetos\api-fiscal-python)
+27/12/23 22:41:48:542 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:41:48:546 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:551 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogPath,F:\Projetos\api-fiscal-python)
+27/12/23 22:41:48:554 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:559 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:563 - Travar
+27/12/23 22:41:48:569 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:572 - Destravar
+27/12/23 22:41:48:576 -    SetRetorno(0, )
+27/12/23 22:41:48:580 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:41:48:585 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:589 - LIB_ConfigGravarValor(NFe, PathSchemas, F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:41:48:594 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:41:48:598 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:601 - TLibNFeConfig.AjustarValor(tfGravar,NFe,PathSchemas,F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:41:48:605 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:609 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:614 - Travar
+27/12/23 22:41:48:618 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:622 - Destravar
+27/12/23 22:41:48:626 -    SetRetorno(0, )
+27/12/23 22:41:48:630 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:41:48:634 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:638 - LIB_ConfigGravarValor(NFe, SalvarGer, 0)
+27/12/23 22:41:48:643 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:41:48:647 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:650 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarGer,0)
+27/12/23 22:41:48:654 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:658 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:662 - Travar
+27/12/23 22:41:48:667 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:671 - Destravar
+27/12/23 22:41:48:674 -    SetRetorno(0, )
+27/12/23 22:41:48:678 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:41:48:682 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:686 - LIB_ConfigGravarValor(NFe, SalvarArq, 0)
+27/12/23 22:41:48:691 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:41:48:695 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:699 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarArq,0)
+27/12/23 22:41:48:703 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:707 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:712 - Travar
+27/12/23 22:41:48:716 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:721 - Destravar
+27/12/23 22:41:48:727 -    SetRetorno(0, )
+27/12/23 22:41:48:731 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:41:48:736 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:740 - LIB_ConfigGravarValor(NFe, SalvarEvento, 0)
+27/12/23 22:41:48:745 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:41:48:749 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:754 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarEvento,0)
+27/12/23 22:41:48:758 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:763 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:767 - Travar
+27/12/23 22:41:48:772 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:776 - Destravar
+27/12/23 22:41:48:780 -    SetRetorno(0, )
+27/12/23 22:41:48:784 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:41:48:789 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:792 - LIB_ConfigGravarValor(NFe, SSLType, 5)
+27/12/23 22:41:48:797 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:41:48:801 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:805 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SSLType,5)
+27/12/23 22:41:48:809 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:814 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:818 - Travar
+27/12/23 22:41:48:822 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:826 - Destravar
+27/12/23 22:41:48:830 -    SetRetorno(0, )
+27/12/23 22:41:48:834 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:41:48:838 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:842 - LIB_ConfigGravarValor(DFe, SSLCryptLib, 3)
+27/12/23 22:41:48:846 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:41:48:851 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:855 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLCryptLib,3)
+27/12/23 22:41:48:859 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:864 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:868 - Travar
+27/12/23 22:41:48:873 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:877 - Destravar
+27/12/23 22:41:48:881 -    SetRetorno(0, )
+27/12/23 22:41:48:886 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:41:48:890 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:893 - LIB_ConfigGravarValor(DFe, SSLHttpLib, 3)
+27/12/23 22:41:48:897 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:41:48:901 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:905 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLHttpLib,3)
+27/12/23 22:41:48:909 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:914 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:919 - Travar
+27/12/23 22:41:48:924 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:928 - Destravar
+27/12/23 22:41:48:932 -    SetRetorno(0, )
+27/12/23 22:41:48:937 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:41:48:941 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:945 - LIB_ConfigGravarValor(DFe, SSLXmlSignLib, 4)
+27/12/23 22:41:48:949 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:41:48:954 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:959 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLXmlSignLib,4)
+27/12/23 22:41:48:964 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:48:967 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:48:972 - Travar
+27/12/23 22:41:48:976 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:48:981 - Destravar
+27/12/23 22:41:48:985 -    SetRetorno(0, )
+27/12/23 22:41:48:989 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:41:48:994 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:48:998 - LIB_ConfigGravarValor(DFe, UF, RS)
+27/12/23 22:41:49:003 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:41:49:006 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:011 - TLibNFeConfig.AjustarValor(tfGravar,DFe,UF,RS)
+27/12/23 22:41:49:016 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:49:020 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:49:024 - Travar
+27/12/23 22:41:49:029 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:49:033 - Destravar
+27/12/23 22:41:49:037 -    SetRetorno(0, )
+27/12/23 22:41:49:042 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:41:49:046 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:051 - LIB_ConfigGravarValor(DFe, TimeZone.Modo, 0)
+27/12/23 22:41:49:055 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:41:49:060 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:064 - TLibNFeConfig.AjustarValor(tfGravar,DFe,TimeZone.Modo,0)
+27/12/23 22:41:49:068 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:49:073 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:49:077 - Travar
+27/12/23 22:41:49:082 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:49:085 - Destravar
+27/12/23 22:41:49:089 -    SetRetorno(0, )
+27/12/23 22:41:49:094 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:41:49:098 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:103 - LIB_ConfigGravarValor(DFe, ArquivoPFX, F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:41:49:107 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:41:49:111 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:115 - TLibNFeConfig.AjustarValor(tfGravar,DFe,ArquivoPFX,F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:41:49:119 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:49:124 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:49:127 - Travar
+27/12/23 22:41:49:131 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:49:136 - Destravar
+27/12/23 22:41:49:140 -    SetRetorno(0, )
+27/12/23 22:41:49:144 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:41:49:149 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:41:49:153 - LIB_ConfigGravarValor(DFe, Senha, ********)
+27/12/23 22:41:49:157 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:41:49:161 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:41:49:165 - TLibNFeConfig.AjustarValor(tfGravar,DFe,Senha,********)
+27/12/23 22:41:49:169 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:49:174 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:49:178 - Travar
+27/12/23 22:41:49:181 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:49:186 - Destravar
+27/12/23 22:41:49:190 -    SetRetorno(0, )
+27/12/23 22:41:49:194 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:41:49:198 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:203 - LIB_ConfigGravarValor(DFe, VerificarValidade, 1)
+27/12/23 22:41:49:207 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:41:49:210 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:214 - TLibNFeConfig.AjustarValor(tfGravar,DFe,VerificarValidade,1)
+27/12/23 22:41:49:218 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:49:222 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:49:226 - Travar
+27/12/23 22:41:49:231 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:49:234 - Destravar
+27/12/23 22:41:49:238 -    SetRetorno(0, )
+27/12/23 22:41:49:244 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:41:49:248 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:251 - LIB_ConfigGravarValor(DANFE, PathPDF, F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:41:49:256 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:41:49:259 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:264 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,PathPDF,F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:41:49:269 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:49:272 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:49:277 - Travar
+27/12/23 22:41:49:282 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:49:286 - Destravar
+27/12/23 22:41:49:289 -    SetRetorno(0, )
+27/12/23 22:41:49:295 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:41:49:299 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:303 - LIB_ConfigGravarValor(DANFE, MostraSetup, 0)
+27/12/23 22:41:49:307 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:41:49:311 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:314 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraSetup,0)
+27/12/23 22:41:49:318 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:49:323 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:49:327 - Travar
+27/12/23 22:41:49:331 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:49:335 - Destravar
+27/12/23 22:41:49:339 -    SetRetorno(0, )
+27/12/23 22:41:49:343 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:41:49:348 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:352 - LIB_ConfigGravarValor(DANFE, MostraPreview, 0)
+27/12/23 22:41:49:356 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:41:49:360 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:364 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraPreview,0)
+27/12/23 22:41:49:368 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:49:373 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:49:377 - Travar
+27/12/23 22:41:49:381 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:49:384 - Destravar
+27/12/23 22:41:49:389 -    SetRetorno(0, )
+27/12/23 22:41:49:393 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:41:49:396 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:401 - LIB_ConfigGravarValor(DANFE, MostraStatus, 0)
+27/12/23 22:41:49:405 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:41:49:409 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:41:49:414 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraStatus,0)
+27/12/23 22:41:49:418 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:41:49:422 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:41:49:426 - Travar
+27/12/23 22:41:49:431 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:41:49:434 - Destravar
+27/12/23 22:41:49:439 -    SetRetorno(0, )
+27/12/23 22:41:49:444 - NFE_StatusServico
+27/12/23 22:41:49:448 - Travar
+27/12/23 22:41:49:609 -    MoverStringParaPChar. StrLen:259, BufLen:2000000
+27/12/23 22:41:49:615 -    SetRetorno(0, { "Status" : { "CStat" : 107, "CUF" : 43, "DhRecbto" : "2023-12-27T22:44:38.000Z", "DhRetorno" : "", "Msg" : "Servico em Operacao", "TMed" : 1, "VerAplic" : "RS202312261158", "Versao" : "4.00", "XMotivo" : "Servico em Operacao", "XObs" : "", "tpAmb" : "2" } })
+27/12/23 22:41:49:619 - Destravar
+27/12/23 22:41:49:648 - LIB_Finalizar
+27/12/23 22:41:49:653 - Finalizar
+27/12/23 22:47:29:523 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:29:527 - Travar
+27/12/23 22:47:29:532 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:29:536 - Destravar
+27/12/23 22:47:29:540 - TLibNFeConfig.Ler - Feito
+27/12/23 22:47:29:544 - Destravar
+27/12/23 22:47:29:548 - TACBrLibNFe.Inicializar - Feito
+27/12/23 22:47:29:552 - LIB_Inicializar( [memory],  )
+27/12/23 22:47:29:557 -    ACBrLibNFE - 0.4.6.264
+27/12/23 22:47:29:561 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:47:29:566 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:570 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+27/12/23 22:47:29:574 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:47:29:579 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:583 - TLibNFeConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+27/12/23 22:47:29:588 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:29:594 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:29:597 - Travar
+27/12/23 22:47:29:603 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:29:607 - Destravar
+27/12/23 22:47:29:611 -    SetRetorno(0, )
+27/12/23 22:47:29:615 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:47:29:619 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:624 - LIB_ConfigGravarValor(Principal, CodificacaoResposta, 0)
+27/12/23 22:47:29:628 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:47:29:633 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:637 - TLibNFeConfig.AjustarValor(tfGravar,Principal,CodificacaoResposta,0)
+27/12/23 22:47:29:641 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:29:646 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:29:650 - Travar
+27/12/23 22:47:29:654 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:29:658 - Destravar
+27/12/23 22:47:29:663 -    SetRetorno(0, )
+27/12/23 22:47:29:668 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:47:29:671 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:676 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+27/12/23 22:47:29:681 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:47:29:685 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:689 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+27/12/23 22:47:29:694 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:29:697 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:29:702 - Travar
+27/12/23 22:47:29:706 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:29:711 - Destravar
+27/12/23 22:47:29:715 -    SetRetorno(0, )
+27/12/23 22:47:29:719 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:47:29:724 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:728 - LIB_ConfigGravarValor(Principal, LogPath, F:\Projetos\api-fiscal-python)
+27/12/23 22:47:29:732 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:47:29:736 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:741 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogPath,F:\Projetos\api-fiscal-python)
+27/12/23 22:47:29:745 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:29:749 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:29:754 - Travar
+27/12/23 22:47:29:759 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:29:762 - Destravar
+27/12/23 22:47:29:766 -    SetRetorno(0, )
+27/12/23 22:47:29:771 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:47:29:774 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:778 - LIB_ConfigGravarValor(NFe, PathSchemas, F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:47:29:783 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:47:29:787 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:792 - TLibNFeConfig.AjustarValor(tfGravar,NFe,PathSchemas,F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:47:29:795 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:29:799 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:29:804 - Travar
+27/12/23 22:47:29:809 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:29:812 - Destravar
+27/12/23 22:47:29:816 -    SetRetorno(0, )
+27/12/23 22:47:29:821 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:47:29:825 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:829 - LIB_ConfigGravarValor(NFe, SalvarGer, 0)
+27/12/23 22:47:29:833 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:47:29:837 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:841 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarGer,0)
+27/12/23 22:47:29:845 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:29:850 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:29:854 - Travar
+27/12/23 22:47:29:858 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:29:863 - Destravar
+27/12/23 22:47:29:867 -    SetRetorno(0, )
+27/12/23 22:47:29:871 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:47:29:875 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:878 - LIB_ConfigGravarValor(NFe, SalvarArq, 0)
+27/12/23 22:47:29:883 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:47:29:887 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:891 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarArq,0)
+27/12/23 22:47:29:895 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:29:899 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:29:902 - Travar
+27/12/23 22:47:29:906 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:29:911 - Destravar
+27/12/23 22:47:29:915 -    SetRetorno(0, )
+27/12/23 22:47:29:919 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:47:29:923 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:927 - LIB_ConfigGravarValor(NFe, SalvarEvento, 0)
+27/12/23 22:47:29:931 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:47:29:935 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:939 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarEvento,0)
+27/12/23 22:47:29:944 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:29:947 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:29:951 - Travar
+27/12/23 22:47:29:955 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:29:959 - Destravar
+27/12/23 22:47:29:964 -    SetRetorno(0, )
+27/12/23 22:47:29:967 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:47:29:971 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:975 - LIB_ConfigGravarValor(NFe, SSLType, 5)
+27/12/23 22:47:29:979 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:47:29:983 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:29:987 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SSLType,5)
+27/12/23 22:47:29:991 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:29:995 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:29:998 - Travar
+27/12/23 22:47:30:002 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:007 - Destravar
+27/12/23 22:47:30:011 -    SetRetorno(0, )
+27/12/23 22:47:30:015 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:47:30:019 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:023 - LIB_ConfigGravarValor(DFe, SSLCryptLib, 3)
+27/12/23 22:47:30:028 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:47:30:031 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:035 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLCryptLib,3)
+27/12/23 22:47:30:039 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:044 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:048 - Travar
+27/12/23 22:47:30:051 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:055 - Destravar
+27/12/23 22:47:30:059 -    SetRetorno(0, )
+27/12/23 22:47:30:064 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:47:30:068 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:072 - LIB_ConfigGravarValor(DFe, SSLHttpLib, 3)
+27/12/23 22:47:30:076 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:47:30:080 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:084 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLHttpLib,3)
+27/12/23 22:47:30:089 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:092 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:096 - Travar
+27/12/23 22:47:30:101 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:104 - Destravar
+27/12/23 22:47:30:108 -    SetRetorno(0, )
+27/12/23 22:47:30:113 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:47:30:117 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:120 - LIB_ConfigGravarValor(DFe, SSLXmlSignLib, 4)
+27/12/23 22:47:30:125 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:47:30:129 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:133 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLXmlSignLib,4)
+27/12/23 22:47:30:137 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:141 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:145 - Travar
+27/12/23 22:47:30:150 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:153 - Destravar
+27/12/23 22:47:30:157 -    SetRetorno(0, )
+27/12/23 22:47:30:161 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:47:30:166 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:170 - LIB_ConfigGravarValor(DFe, UF, RS)
+27/12/23 22:47:30:174 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:47:30:178 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:182 - TLibNFeConfig.AjustarValor(tfGravar,DFe,UF,RS)
+27/12/23 22:47:30:186 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:189 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:194 - Travar
+27/12/23 22:47:30:198 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:201 - Destravar
+27/12/23 22:47:30:206 -    SetRetorno(0, )
+27/12/23 22:47:30:209 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:47:30:215 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:219 - LIB_ConfigGravarValor(DFe, TimeZone.Modo, 0)
+27/12/23 22:47:30:223 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:47:30:227 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:231 - TLibNFeConfig.AjustarValor(tfGravar,DFe,TimeZone.Modo,0)
+27/12/23 22:47:30:235 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:239 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:242 - Travar
+27/12/23 22:47:30:248 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:251 - Destravar
+27/12/23 22:47:30:255 -    SetRetorno(0, )
+27/12/23 22:47:30:259 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:47:30:264 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:268 - LIB_ConfigGravarValor(DFe, ArquivoPFX, F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:47:30:271 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:47:30:277 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:280 - TLibNFeConfig.AjustarValor(tfGravar,DFe,ArquivoPFX,F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:47:30:284 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:289 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:292 - Travar
+27/12/23 22:47:30:297 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:301 - Destravar
+27/12/23 22:47:30:305 -    SetRetorno(0, )
+27/12/23 22:47:30:309 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:47:30:313 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:47:30:317 - LIB_ConfigGravarValor(DFe, Senha, ********)
+27/12/23 22:47:30:321 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:47:30:325 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:47:30:329 - TLibNFeConfig.AjustarValor(tfGravar,DFe,Senha,********)
+27/12/23 22:47:30:334 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:339 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:343 - Travar
+27/12/23 22:47:30:347 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:352 - Destravar
+27/12/23 22:47:30:356 -    SetRetorno(0, )
+27/12/23 22:47:30:360 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:47:30:364 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:369 - LIB_ConfigGravarValor(DFe, VerificarValidade, 1)
+27/12/23 22:47:30:372 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:47:30:377 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:381 - TLibNFeConfig.AjustarValor(tfGravar,DFe,VerificarValidade,1)
+27/12/23 22:47:30:384 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:388 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:393 - Travar
+27/12/23 22:47:30:397 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:401 - Destravar
+27/12/23 22:47:30:405 -    SetRetorno(0, )
+27/12/23 22:47:30:409 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:47:30:413 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:418 - LIB_ConfigGravarValor(DANFE, PathPDF, F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:47:30:421 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:47:30:425 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:429 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,PathPDF,F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:47:30:434 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:438 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:441 - Travar
+27/12/23 22:47:30:446 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:449 - Destravar
+27/12/23 22:47:30:454 -    SetRetorno(0, )
+27/12/23 22:47:30:458 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:47:30:463 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:467 - LIB_ConfigGravarValor(DANFE, MostraSetup, 0)
+27/12/23 22:47:30:471 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:47:30:475 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:479 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraSetup,0)
+27/12/23 22:47:30:483 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:487 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:491 - Travar
+27/12/23 22:47:30:495 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:499 - Destravar
+27/12/23 22:47:30:504 -    SetRetorno(0, )
+27/12/23 22:47:30:508 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:47:30:511 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:516 - LIB_ConfigGravarValor(DANFE, MostraPreview, 0)
+27/12/23 22:47:30:520 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:47:30:524 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:528 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraPreview,0)
+27/12/23 22:47:30:532 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:536 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:539 - Travar
+27/12/23 22:47:30:544 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:548 - Destravar
+27/12/23 22:47:30:552 -    SetRetorno(0, )
+27/12/23 22:47:30:556 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:47:30:559 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:564 - LIB_ConfigGravarValor(DANFE, MostraStatus, 0)
+27/12/23 22:47:30:569 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:47:30:573 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:47:30:578 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraStatus,0)
+27/12/23 22:47:30:581 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:47:30:585 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:47:30:588 - Travar
+27/12/23 22:47:30:595 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:47:30:599 - Destravar
+27/12/23 22:47:30:603 -    SetRetorno(0, )
+27/12/23 22:47:30:607 - NFE_StatusServico
+27/12/23 22:47:30:612 - Travar
+27/12/23 22:47:30:753 -    MoverStringParaPChar. StrLen:259, BufLen:2000000
+27/12/23 22:47:30:758 -    SetRetorno(0, { "Status" : { "CStat" : 107, "CUF" : 43, "DhRecbto" : "2023-12-27T22:50:20.000Z", "DhRetorno" : "", "Msg" : "Servico em Operacao", "TMed" : 1, "VerAplic" : "RS202312261158", "Versao" : "4.00", "XMotivo" : "Servico em Operacao", "XObs" : "", "tpAmb" : "2" } })
+27/12/23 22:47:30:761 - Destravar
+27/12/23 22:47:30:791 - LIB_Finalizar
+27/12/23 22:47:30:796 - Finalizar
+27/12/23 22:50:48:632 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:48:636 - Travar
+27/12/23 22:50:48:641 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:48:645 - Destravar
+27/12/23 22:50:48:650 - TLibNFeConfig.Ler - Feito
+27/12/23 22:50:48:653 - Destravar
+27/12/23 22:50:48:657 - TACBrLibNFe.Inicializar - Feito
+27/12/23 22:50:48:661 - LIB_Inicializar( [memory],  )
+27/12/23 22:50:48:666 -    ACBrLibNFE - 0.4.6.264
+27/12/23 22:50:48:670 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:50:48:674 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:678 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+27/12/23 22:50:48:683 - TACBrLibNFe.PrecisaCriptografar(Principal,TipoResposta)
+27/12/23 22:50:48:687 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:691 - TLibNFeConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+27/12/23 22:50:48:695 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:48:699 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:48:703 - Travar
+27/12/23 22:50:48:708 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:48:712 - Destravar
+27/12/23 22:50:48:716 -    SetRetorno(0, )
+27/12/23 22:50:48:721 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:50:48:725 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:729 - LIB_ConfigGravarValor(Principal, CodificacaoResposta, 0)
+27/12/23 22:50:48:733 - TACBrLibNFe.PrecisaCriptografar(Principal,CodificacaoResposta)
+27/12/23 22:50:48:737 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:741 - TLibNFeConfig.AjustarValor(tfGravar,Principal,CodificacaoResposta,0)
+27/12/23 22:50:48:746 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:48:750 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:48:753 - Travar
+27/12/23 22:50:48:757 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:48:762 - Destravar
+27/12/23 22:50:48:765 -    SetRetorno(0, )
+27/12/23 22:50:48:769 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:50:48:774 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:778 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+27/12/23 22:50:48:782 - TACBrLibNFe.PrecisaCriptografar(Principal,LogNivel)
+27/12/23 22:50:48:786 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:790 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+27/12/23 22:50:48:793 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:48:799 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:48:803 - Travar
+27/12/23 22:50:48:807 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:48:811 - Destravar
+27/12/23 22:50:48:816 -    SetRetorno(0, )
+27/12/23 22:50:48:820 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:50:48:824 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:828 - LIB_ConfigGravarValor(Principal, LogPath, F:\Projetos\api-fiscal-python)
+27/12/23 22:50:48:831 - TACBrLibNFe.PrecisaCriptografar(Principal,LogPath)
+27/12/23 22:50:48:836 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:840 - TLibNFeConfig.AjustarValor(tfGravar,Principal,LogPath,F:\Projetos\api-fiscal-python)
+27/12/23 22:50:48:843 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:48:847 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:48:852 - Travar
+27/12/23 22:50:48:856 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:48:859 - Destravar
+27/12/23 22:50:48:864 -    SetRetorno(0, )
+27/12/23 22:50:48:868 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:50:48:873 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:877 - LIB_ConfigGravarValor(NFe, PathSchemas, F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:50:48:881 - TACBrLibNFe.PrecisaCriptografar(NFe,PathSchemas)
+27/12/23 22:50:48:885 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:889 - TLibNFeConfig.AjustarValor(tfGravar,NFe,PathSchemas,F:\Projetos\api-fiscal-python\arquivos\schemas\NFe)
+27/12/23 22:50:48:893 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:48:896 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:48:901 - Travar
+27/12/23 22:50:48:905 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:48:909 - Destravar
+27/12/23 22:50:48:913 -    SetRetorno(0, )
+27/12/23 22:50:48:917 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:50:48:921 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:925 - LIB_ConfigGravarValor(NFe, SalvarGer, 0)
+27/12/23 22:50:48:930 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarGer)
+27/12/23 22:50:48:934 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:937 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarGer,0)
+27/12/23 22:50:48:942 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:48:945 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:48:949 - Travar
+27/12/23 22:50:48:954 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:48:958 - Destravar
+27/12/23 22:50:48:961 -    SetRetorno(0, )
+27/12/23 22:50:48:965 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:50:48:969 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:973 - LIB_ConfigGravarValor(NFe, SalvarArq, 0)
+27/12/23 22:50:48:978 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarArq)
+27/12/23 22:50:48:982 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:48:986 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarArq,0)
+27/12/23 22:50:48:990 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:48:993 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:48:998 - Travar
+27/12/23 22:50:49:002 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:006 - Destravar
+27/12/23 22:50:49:010 -    SetRetorno(0, )
+27/12/23 22:50:49:013 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:50:49:017 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:021 - LIB_ConfigGravarValor(NFe, SalvarEvento, 0)
+27/12/23 22:50:49:025 - TACBrLibNFe.PrecisaCriptografar(NFe,SalvarEvento)
+27/12/23 22:50:49:029 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:033 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SalvarEvento,0)
+27/12/23 22:50:49:037 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:041 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:046 - Travar
+27/12/23 22:50:49:050 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:053 - Destravar
+27/12/23 22:50:49:057 -    SetRetorno(0, )
+27/12/23 22:50:49:061 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:50:49:065 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:069 - LIB_ConfigGravarValor(NFe, SSLType, 5)
+27/12/23 22:50:49:074 - TACBrLibNFe.PrecisaCriptografar(NFe,SSLType)
+27/12/23 22:50:49:078 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:082 - TLibNFeConfig.AjustarValor(tfGravar,NFe,SSLType,5)
+27/12/23 22:50:49:086 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:090 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:093 - Travar
+27/12/23 22:50:49:098 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:102 - Destravar
+27/12/23 22:50:49:106 -    SetRetorno(0, )
+27/12/23 22:50:49:111 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:50:49:114 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:119 - LIB_ConfigGravarValor(DFe, SSLCryptLib, 3)
+27/12/23 22:50:49:122 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLCryptLib)
+27/12/23 22:50:49:126 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:131 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLCryptLib,3)
+27/12/23 22:50:49:135 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:138 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:142 - Travar
+27/12/23 22:50:49:146 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:150 - Destravar
+27/12/23 22:50:49:154 -    SetRetorno(0, )
+27/12/23 22:50:49:158 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:50:49:162 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:166 - LIB_ConfigGravarValor(DFe, SSLHttpLib, 3)
+27/12/23 22:50:49:171 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLHttpLib)
+27/12/23 22:50:49:175 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:179 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLHttpLib,3)
+27/12/23 22:50:49:183 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:187 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:191 - Travar
+27/12/23 22:50:49:195 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:199 - Destravar
+27/12/23 22:50:49:203 -    SetRetorno(0, )
+27/12/23 22:50:49:207 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:50:49:211 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:215 - LIB_ConfigGravarValor(DFe, SSLXmlSignLib, 4)
+27/12/23 22:50:49:219 - TACBrLibNFe.PrecisaCriptografar(DFe,SSLXmlSignLib)
+27/12/23 22:50:49:224 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:229 - TLibNFeConfig.AjustarValor(tfGravar,DFe,SSLXmlSignLib,4)
+27/12/23 22:50:49:232 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:236 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:241 - Travar
+27/12/23 22:50:49:245 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:249 - Destravar
+27/12/23 22:50:49:254 -    SetRetorno(0, )
+27/12/23 22:50:49:258 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:50:49:262 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:266 - LIB_ConfigGravarValor(DFe, UF, RS)
+27/12/23 22:50:49:269 - TACBrLibNFe.PrecisaCriptografar(DFe,UF)
+27/12/23 22:50:49:274 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:278 - TLibNFeConfig.AjustarValor(tfGravar,DFe,UF,RS)
+27/12/23 22:50:49:283 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:287 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:291 - Travar
+27/12/23 22:50:49:295 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:299 - Destravar
+27/12/23 22:50:49:304 -    SetRetorno(0, )
+27/12/23 22:50:49:308 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:50:49:312 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:316 - LIB_ConfigGravarValor(DFe, TimeZone.Modo, 0)
+27/12/23 22:50:49:321 - TACBrLibNFe.PrecisaCriptografar(DFe,TimeZone.Modo)
+27/12/23 22:50:49:325 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:329 - TLibNFeConfig.AjustarValor(tfGravar,DFe,TimeZone.Modo,0)
+27/12/23 22:50:49:333 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:337 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:341 - Travar
+27/12/23 22:50:49:346 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:350 - Destravar
+27/12/23 22:50:49:353 -    SetRetorno(0, )
+27/12/23 22:50:49:358 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:50:49:362 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:366 - LIB_ConfigGravarValor(DFe, ArquivoPFX, F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:50:49:370 - TACBrLibNFe.PrecisaCriptografar(DFe,ArquivoPFX)
+27/12/23 22:50:49:374 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:378 - TLibNFeConfig.AjustarValor(tfGravar,DFe,ArquivoPFX,F:\Projetos\api-fiscal-python\arquivos\certificado - 20162013.pfx)
+27/12/23 22:50:49:382 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:386 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:389 - Travar
+27/12/23 22:50:49:394 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:398 - Destravar
+27/12/23 22:50:49:402 -    SetRetorno(0, )
+27/12/23 22:50:49:406 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:50:49:411 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:50:49:415 - LIB_ConfigGravarValor(DFe, Senha, ********)
+27/12/23 22:50:49:419 - TACBrLibNFe.PrecisaCriptografar(DFe,Senha)
+27/12/23 22:50:49:423 - TACBrLibNFe.PrecisaCriptografar - Feito Result: True
+27/12/23 22:50:49:427 - TLibNFeConfig.AjustarValor(tfGravar,DFe,Senha,********)
+27/12/23 22:50:49:431 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:434 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:439 - Travar
+27/12/23 22:50:49:443 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:447 - Destravar
+27/12/23 22:50:49:451 -    SetRetorno(0, )
+27/12/23 22:50:49:455 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:50:49:459 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:463 - LIB_ConfigGravarValor(DFe, VerificarValidade, 1)
+27/12/23 22:50:49:467 - TACBrLibNFe.PrecisaCriptografar(DFe,VerificarValidade)
+27/12/23 22:50:49:471 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:475 - TLibNFeConfig.AjustarValor(tfGravar,DFe,VerificarValidade,1)
+27/12/23 22:50:49:479 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:484 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:487 - Travar
+27/12/23 22:50:49:491 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:496 - Destravar
+27/12/23 22:50:49:499 -    SetRetorno(0, )
+27/12/23 22:50:49:503 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:50:49:507 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:511 - LIB_ConfigGravarValor(DANFE, PathPDF, F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:50:49:516 - TACBrLibNFe.PrecisaCriptografar(DANFE,PathPDF)
+27/12/23 22:50:49:520 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:523 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,PathPDF,F:\Projetos\api-fiscal-python\danfe)
+27/12/23 22:50:49:527 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:532 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:536 - Travar
+27/12/23 22:50:49:540 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:544 - Destravar
+27/12/23 22:50:49:548 -    SetRetorno(0, )
+27/12/23 22:50:49:552 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:50:49:556 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:560 - LIB_ConfigGravarValor(DANFE, MostraSetup, 0)
+27/12/23 22:50:49:563 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraSetup)
+27/12/23 22:50:49:567 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:572 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraSetup,0)
+27/12/23 22:50:49:575 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:579 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:583 - Travar
+27/12/23 22:50:49:587 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:591 - Destravar
+27/12/23 22:50:49:595 -    SetRetorno(0, )
+27/12/23 22:50:49:602 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:50:49:606 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:611 - LIB_ConfigGravarValor(DANFE, MostraPreview, 0)
+27/12/23 22:50:49:614 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraPreview)
+27/12/23 22:50:49:619 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:624 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraPreview,0)
+27/12/23 22:50:49:628 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:631 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:636 - Travar
+27/12/23 22:50:49:640 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:644 - Destravar
+27/12/23 22:50:49:648 -    SetRetorno(0, )
+27/12/23 22:50:49:652 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:50:49:656 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:660 - LIB_ConfigGravarValor(DANFE, MostraStatus, 0)
+27/12/23 22:50:49:664 - TACBrLibNFe.PrecisaCriptografar(DANFE,MostraStatus)
+27/12/23 22:50:49:668 - TACBrLibNFe.PrecisaCriptografar - Feito Result: False
+27/12/23 22:50:49:672 - TLibNFeConfig.AjustarValor(tfGravar,DANFE,MostraStatus,0)
+27/12/23 22:50:49:676 - TLibNFeConfig.AjustarValor - Feito
+27/12/23 22:50:49:681 - TLibNFeConfig.AplicarConfiguracoes: C:\Users\edadr\AppData\Local\Programs\Python\Python312\[memory]
+27/12/23 22:50:49:685 - Travar
+27/12/23 22:50:49:689 - TLibNFeConfig.AplicarConfiguracoes - Feito
+27/12/23 22:50:49:694 - Destravar
+27/12/23 22:50:49:698 -    SetRetorno(0, )
+27/12/23 22:50:49:702 - NFE_StatusServico
+27/12/23 22:50:49:706 - Travar
+27/12/23 22:50:50:010 -    MoverStringParaPChar. StrLen:259, BufLen:2000000
+27/12/23 22:50:50:014 -    SetRetorno(0, { "Status" : { "CStat" : 107, "CUF" : 43, "DhRecbto" : "2023-12-27T22:53:39.000Z", "DhRetorno" : "", "Msg" : "Servico em Operacao", "TMed" : 1, "VerAplic" : "RS202312261158", "Versao" : "4.00", "XMotivo" : "Servico em Operacao", "XObs" : "", "tpAmb" : "2" } })
+27/12/23 22:50:50:018 - Destravar
+27/12/23 22:50:50:047 - LIB_Finalizar
+27/12/23 22:50:50:051 - Finalizar
