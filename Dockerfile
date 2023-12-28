@@ -38,6 +38,6 @@ COPY run.sh /app/run.sh
 RUN chmod 0755 /app/run.sh
 
 # CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"]
-# EXPOSE 5000
+EXPOSE 5000
 
 ENTRYPOINT ["bash", "/app/run.sh"]
