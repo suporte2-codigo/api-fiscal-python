@@ -6,6 +6,7 @@ from datetime import datetime
 from multiprocessing import Process, Queue, Pool
 from flask_expects_json import expects_json
 import json
+import os
 
 app = Flask(__name__)
 
@@ -84,4 +85,4 @@ def GerarPDFT(q):
     return q.put(json.dumps({"base64": ret}))
 
 if __name__ == '__main__':
-    app.run(port=5000)
+    app.run(port=os.getenv("PORT") or '80')
