@@ -69,8 +69,8 @@ class AcbrLibNfe(AcbrLib):
                 'SSLType': '5'
             },
             'DFe': {
-                'SSLCryptLib': '3' if platform.uname()[0] == "Windows" else '1',
-                'SSLHttpLib': '3' if platform.uname()[0] == "Windows" else '1',
+                'SSLCryptLib': '1',
+                'SSLHttpLib': '3',
                 'SSLXmlSignLib': '4',
                 'UF': uf,
                 'TimeZone.Modo': '0',
