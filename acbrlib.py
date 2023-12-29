@@ -29,13 +29,13 @@ class AcbrLib:
         resposta = buffer.raw.decode('utf-8').replace('0x00', '').replace('\x00', '').rstrip(u"\u0000")
         raise AcbrLibException(resposta)
 
-    def _process_result(self, result, size):
+    def _process_result(self, result_code, result, size):
         if size.value <= self.STR_BUFFER_LEN:
-            return result.raw.decode('utf-8').replace('0x00', '').replace('\x00', '')
+            return {"result_code": result_code, "message": result.raw.decode('utf-8').replace('0x00', '').replace('\x00', '')}
         if size.value > self.STR_BUFFER_LEN:
             buffer = create_string_buffer(size.value)
             self.dll.NFE_UltimoRetorno(self.dll_handler, buffer, byref(c_int(self.STR_BUFFER_LEN)))
-            return buffer.raw.decode('utf-8').replace('0x00', '').replace('\x00', '')
+            return {"result_code": result_code, "message": buffer.raw.decode('utf-8').replace('0x00', '').replace('\x00', '')}
         
 
 class AcbrLibNfe(AcbrLib):
@@ -70,8 +70,8 @@ class AcbrLibNfe(AcbrLib):
                 'Ambiente': '1'
             },
             'DFe': {
-                'SSLCryptLib': '1',
-                'SSLHttpLib': '3',
+                'SSLCryptLib': '3' if platform.uname()[0] == "Windows" else '1',
+                'SSLHttpLib': '2' if platform.uname()[0] == "Windows" else '3',
                 'SSLXmlSignLib': '4',
                 'UF': uf,
                 'TimeZone.Modo': '0',
@@ -97,7 +97,7 @@ class AcbrLibNfe(AcbrLib):
         size = c_uint(self.STR_BUFFER_LEN)
         ret = self.dll.NFE_StatusServico(self.dll_handler, buffer, byref(size))
         self._check_result(ret)
-        return self._process_result(buffer, size)
+        return self._process_result(ret, buffer, size)
 
     def NFE_CarregarINI(self, eArquivoOuINI):
         ret = self.dll.NFE_CarregarINI(self.dll_handler, eArquivoOuINI.encode('utf-8'))
@@ -116,28 +116,28 @@ class AcbrLibNfe(AcbrLib):
         size = c_uint(len(buffer))
         ret = self.dll.NFE_ObterXml(self.dll_handler, 0, buffer, byref(size))
         self._check_result(ret)
-        return self._process_result(buffer, size)
+        return self._process_result(ret, buffer, size)
 
     def NFE_Enviar(self, lote=0, imprimir=False, sincrono=True, zipado=False):
         buffer = create_string_buffer(self.STR_BUFFER_LEN)
         size = c_uint(len(buffer))
         ret = self.dll.NFE_Enviar(self.dll_handler, lote, imprimir, sincrono, zipado, buffer, byref(size))
         self._check_result(ret)
-        return self._process_result(buffer, size)
+        return self._process_result(ret, buffer, size)
 
     def NFE_Cancelar(self, chave, justificativa, cnpj, lote=0):
         buffer = create_string_buffer(self.STR_BUFFER_LEN)
         size = c_uint(len(buffer))
         ret = self.dll.NFE_Cancelar(self.dll_handler, chave.encode('utf-8'), justificativa.encode('utf-8'), cnpj.encode('utf-8'), lote, buffer, byref(size))
         self._check_result(ret)
-        return self._process_result(buffer, size)
+        return self._process_result(ret, buffer, size)
 
     def NFE_DistribuicaoDFePorChave(self, uf_autor, cnpj_cpf, chave):
         buffer = create_string_buffer(self.STR_BUFFER_LEN)
         size = c_uint(len(buffer))
         ret = self.dll.NFE_DistribuicaoDFePorChave(self.dll_handler, uf_autor, cnpj_cpf.encode('utf-8'), chave.encode('utf-8'), buffer, byref(size))
         self._check_result(ret)
-        return self._process_result(buffer, size)
+        return self._process_result(ret, buffer, size)
 
     def NFE_LimparLista(self):
         ret = self.dll.NFE_LimparLista(self.dll_handler)
@@ -152,7 +152,7 @@ class AcbrLibNfe(AcbrLib):
         size = c_uint(len(buffer))
         ret = self.dll.NFE_SalvarPDF(self.dll_handler, buffer, byref(size))
         self._check_result(ret)
-        return self._process_result(buffer, size)
+        return self._process_result(ret, buffer, size)
 
     def NFE_ImprimirPDF(self):
         ret = self.dll.NFE_ImprimirPDF(self.dll_handler)

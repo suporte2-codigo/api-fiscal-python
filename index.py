@@ -11,6 +11,7 @@ import os
 app = Flask(__name__)
 
 print('Inicio da aplicação')
+Queue().close()
 
 schemaStatus = {
     'type': 'object',
@@ -30,18 +31,24 @@ def hello_world():
 # @expects_json(schemaStatus)
 def StatusServico():
     # body = json.loads(request.data)
-    queue = Queue()
-    process = Process(target=StatusServicoT, args=(queue,))
-    process.start()
-    ret = queue.get()
-    process.join()
-    if process.exitcode:
+    try:
+        print('def StatusServico()')
+        queue = Queue()
+        process = Process(target=StatusServicoT, args=(queue,))
+        process.start()
+        ret = queue.get()
         process.join()
+        if process.exitcode:
+            process.join()      
+
+        print(ret['result_code'])
+        print(jsonify(ret['message']), 200)
         
-    response = Response()
-    response.data = json.loads(ret)
-    response.content_type = "application/json"
-    return response
+        return Response(ret['message'], 200 if not ret['result_code'] else 400)
+    except Exception as e:
+        print('except')
+        print(e)
+        return Response({"error": str(e)},400)
     
 @app.route('/pdf', methods=['GET'])
 def GerarPDF():
@@ -49,6 +56,7 @@ def GerarPDF():
     process = Process(target=GerarPDFT, args=(queue,))
     process.start()
     ret = queue.get()
+    print(ret)
     process.join()
 
     if process.exitcode:
@@ -57,13 +65,18 @@ def GerarPDF():
     return json.loads(ret)
 
 def StatusServicoT(q):
-    print('StatusServico Inicio: ' , datetime.now())
-    lib = AcbrLibNfe()
-    lib.NFE_Inicializar('RS','20162013',path.join(BASE_DIR, path.join('arquivos', 'certificado - 20162013.pfx')))
-    ret = lib.NFE_StatusServico()
-    lib.NFE_Finalizar()
-    print('StatusServico Fim: ' , datetime.now())
-    return q.put(json.dumps(ret))
+    try:
+        print('StatusServico Inicio: ' , datetime.now())
+        lib = AcbrLibNfe()
+        lib.NFE_Inicializar('RS','20162013',path.join(BASE_DIR, path.join('arquivos', 'certificado - 20162013.pfx')))
+        ret = lib.NFE_StatusServico()
+        print(type(ret))
+        lib.NFE_Finalizar()
+        print('StatusServico Fim: ' , datetime.now())
+        return q.put(ret)
+    except Exception as e: 
+        ret = { "error": e.message, "status": 400}
+        return q.put(ret)
 
 def GerarPDFT(q):
     print('GerarPDF Inicio: ' , datetime.now())
